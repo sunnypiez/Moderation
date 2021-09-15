@@ -11,3 +11,5 @@ welcome to my premade moderation bot code! this is only operated for python lang
 these codes are premade by slumber#9279, all work goes to her and only her!!
 
 if you'd like a custom bot made for you, contact slumbee@tutanota.com via e-mail for pricing and negotiations
+
+I used visual studio code to make this bot!
